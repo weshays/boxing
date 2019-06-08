@@ -54,7 +54,7 @@ public class BoxContainer {
     }
     System.out.println("########################");
     System.out.println("TOTAL VOLUME: " + total_volume);
-    System.out.println("Container Capacity: " + CONTAINER_SIZE);
+    System.out.println("CONTAINER CAPACITY: " + CONTAINER_SIZE);
 
     if(isFull()) {
       System.out.println("########################");
